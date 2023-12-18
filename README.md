@@ -1,2 +1,2 @@
 # Spotify-clone
-Try to create spotify home page
+Try to create a Spotify home page using HTML, CSS
